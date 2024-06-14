@@ -1,0 +1,7 @@
+fastapi
+streamlit
+google-generativeai
+PyPDF2
+python-dotenv
+pylance
+dotenv
