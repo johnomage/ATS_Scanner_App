@@ -99,7 +99,6 @@ if pdf_upload is not None:
     success.empty()
 
 # create buttons
-# query_col, submit_col = st.columns(2)
 prompt_selector = st.selectbox(label='Choose Query', options=["",
                                                               'Engineering Manager Analysis'.strip(),
                                                               'HR Analysis'.strip(),
