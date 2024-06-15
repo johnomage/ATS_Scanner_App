@@ -15,13 +15,10 @@ This repository hosts a web application built with Streamlit that utilizes GenAI
 - **Deployment:** Ready-to-deploy setup using Streamlit, enabling easy deployment on various platforms.
 
 **Technologies Used:**
-- **fastapi**
 - **streamlit**
 - **google-generativeai**
 - **PyPDF2**
 - **python-dotenv**
-- **pylance**
-- **dotenv**
 
 
 **Usage:**
